@@ -1,0 +1,20 @@
+{
+  "name": "rorgod625_fto2405_groupa1_rory-goddard_djs03",
+  "version": "1.0.0",
+  "description": "Dive into the delightful world of \"Book Connect,\" where literary adventures await at your fingertips! Browse, explore, and uncover your next great read from a vast, vibrant collection. Whether you're a fan of thrilling mysteries, epic fantasies, or heartwarming romances, \"Book Connect\" brings the magic of books directly to you. Happy reading!",
+  "main": "data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "eslintConfig": {
+  "extends": ["wesbos"]
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-wesbos": "^4.3.1"
+  }
+}
